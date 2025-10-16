@@ -1,0 +1,1 @@
+# -SQL-Challenge-Identifying-Products-Exclusively-Sold-on-a-Single-Platform
